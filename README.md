@@ -17,7 +17,7 @@ Fiquem a vontade para tirar dúvidas e dar sugestões, estou sempre disposto a o
  
  <br>
  
-  ### Para mais formas de contato me segue nas redes sociais!
+  ### Para mais formas de contato me segue nas redes sociais!!
  
 <div> 
   
