@@ -1,8 +1,10 @@
 ## Oi, eu sou Anderson Rodrigo!
 
-Venho diáriamente estudando para aprimorar minhas skills para conseguir meu primeiro emprego como Desenvolvedor front-end. Busco sempre criar e inovar meus códigos de forma coesa, semântica e limpa, cada dia aprimorando mais meu conhecimento e emergindo nesse imenso mundo da programação web!
+Venho diáriamente estudando para aprimorar minhas skills para me tornar um desenvolvedor front-end de maior qualidade. Busco sempre criar e inovar meus códigos de forma coesa, semântica e limpa, cada dia aprimorando mais meu conhecimento e emergindo nesse imenso mundo da programação web!
 
-Fiquem a vontade para tirar dúvidas e dar sugestões, estou sempre disposto a ouvir e melhorar!!! :D <3
+Desenvolvo aplicações de alta qualidade e desempenho utilizando ReactJs.
+
+Fiquem a vontade para tirar dúvidas e dar sugestões, estou sempre disposto a ouvir e melhorar!!!
 
 <div>
   <a href="https://github.com/Anderson-Rodrigo-dev">
